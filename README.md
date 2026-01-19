@@ -7,9 +7,10 @@
 
 - 📝 I regularly write articles on [Python](Python)
 
-- 📫 How to reach me **8217516956**
+- 📫 reach me **8217516956**
 
 <h3 align="left">Connect with me:</h3>
+<img src='https://www.flaticon.com/free-icon/social-media_6433684?term=instagram+logo&page=1&position=14&origin=tag&related_id=6433684' loading='eager'>
 <p align="left">
 </p>
 
