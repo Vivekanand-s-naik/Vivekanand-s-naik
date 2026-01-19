@@ -10,7 +10,12 @@
 - 📫 reach me **8217516956**
 
 <h3 align="left">Connect with me:</h3>
-<img src='https://www.flaticon.com/free-icon/social-media_6433684?term=instagram+logo&page=1&position=14&origin=tag&related_id=6433684' loading='eager'>
+
+<h2 >
+  <img src='https://cdn-icons-png.flaticon.com/128/15707/15707749.png' height='25px' wodth='25px'  loading='eager'>
+  <a href='https://www.instagram.com/itzz_vivek_nk/' style='display:inlin'>Itzz_Vivek_Nk
+  </a>
+</h2>
 <p align="left">
 </p>
 
