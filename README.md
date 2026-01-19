@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **A android game**
 
-- 🌱 I’m currently learning **Java ,node,js**
+- 🌱 I’m currently learning **Java ,node,js,MERN-Stack**
 
-- 📝 I regularly write articles on [Python](Python)
+- 📝 I regularly work on [Python](Python)
 
 - 📫 reach me **8217516956**
 
