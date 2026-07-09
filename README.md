@@ -7,8 +7,6 @@
 
 - 📝 I regularly work on [Python](Python)
 
-- 📫 reach me **8217516956**
-
 <h3 align="left">Connect with me:</h3>
 
 <h2 >
