@@ -179,8 +179,7 @@ I'm always up for collaborating on ambitious AI/ML, full-stack, or data science 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vivekanand-s-naik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891B2&icon_color=0891B2" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekanand-s-naik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891B2" alt="Top Languages" />
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivekanand-s-naik&theme=tokyonight&hide_border=true&background=0D1117&ring=0891B2&fire=0891B2" alt="GitHub Streak" />
 
