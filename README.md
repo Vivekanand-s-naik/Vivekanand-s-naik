@@ -190,7 +190,7 @@ I'm always up for collaborating on ambitious AI/ML, full-stack, or data science 
 
 <div align="center">
 
-<a href="https://github.com/Vivekanand-s-naik">
+<a href="https://www.linkedin.com/in/vivekanand-s-naik-codersparadise/">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="[https://www.linkedin.com/in/Vivekanand-naik](https://www.linkedin.com/in/vivekanand-s-naik-codersparadise/)">
