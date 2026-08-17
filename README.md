@@ -210,8 +210,6 @@ I'm always up for collaborating on ambitious AI/ML, full-stack, or data science 
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
-> 🐍 **Note:** the snake animation needs a one-time setup — a small GitHub Action in your repo that regenerates this SVG daily. See [Platane/snk](https://github.com/Platane/snk) for the copy-paste workflow.
-
 <br>
 
 **Made with ❤️ by Vivekanand S Naik**
