@@ -178,15 +178,11 @@ I'm always up for collaborating on ambitious AI/ML, full-stack, or data science 
 
 <div align="center">
 
-
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivekanand-s-naik&theme=tokyonight&hide_border=true&background=0D1117&ring=0891B2&fire=0891B2" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivekanand-s-naik&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0891B2&line=0891B2&point=ffffff" alt="Activity Graph" width="95%"/>
 
 </div>
-
-> 💡 **Note:** the stats cards above render automatically — no GitHub Action required. If you'd rather have a snapshot committed to your repo, add the [github-readme-stats-card-generator action](https://github.com/marketplace/actions/github-profile-summary-cards) to your workflow.
 
 <br>
 
